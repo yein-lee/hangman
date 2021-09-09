@@ -4,8 +4,7 @@ Python GUI Programming using tkinter
 
 
 ## How to Play
-### Run hangman.py 
-### You'll get 8 lives for free
+### Run hangman.py, you'll get 8 lives for free
 ![image](https://user-images.githubusercontent.com/39490214/132706107-64ed0325-9466-4f86-a264-7eb35b047acf.png)  </br></br>
 
 ### Click the keyboard buttons below to win
