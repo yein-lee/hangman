@@ -1,3 +1,6 @@
+# hangman
+Python GUI Programming using tkinter
+
 ## How to Play
 ### Run the main.py 
 You get 8 lives per a game. \
