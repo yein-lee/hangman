@@ -1,8 +1,6 @@
 # hangman
 Python GUI Programming using tkinter
-
-
-
+</br></br>
 
 
 ## How to Play
