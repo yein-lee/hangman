@@ -1,11 +1,12 @@
 # hangman
 ### Game Starts
-![image](https://user-images.githubusercontent.com/39490214/132705180-8b261ed3-247a-4031-b0c1-23bb8f9e822e.png)
+You get 8 lives per a game. \
+![image](https://user-images.githubusercontent.com/39490214/132706107-64ed0325-9466-4f86-a264-7eb35b047acf.png)
 
 ### Click the Keyboard Buttons Below to Win
-![image](https://user-images.githubusercontent.com/39490214/132705259-cf460ca2-308e-4d40-830b-c380959d26cf.png)\
+![image](https://user-images.githubusercontent.com/39490214/132706216-d32baab2-7d0a-417a-90dd-fb8e5705ac4b.png)
 
-### You Can Play as much as You Want! Even If You Lose
-![image](https://user-images.githubusercontent.com/39490214/132705126-d393c564-3a9a-447a-9a7a-0920cae1d385.png)\
-![image](https://user-images.githubusercontent.com/39490214/132705562-5ec44636-fe24-4e71-b57e-07cad02971cc.png)
 
+### You Can Play As Much As You Want! Even If You Lose
+![image](https://user-images.githubusercontent.com/39490214/132706302-d14de3af-8e17-4f9d-82d7-703c4e899a06.png)\
+![image](https://user-images.githubusercontent.com/39490214/132706448-cfada10e-7d60-43b5-8513-193b7946c694.png)
