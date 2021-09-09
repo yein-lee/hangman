@@ -8,5 +8,6 @@ You get 8 lives per a game. \
 
 
 ### You Can Play As Much As You Want! Even If You Lose
+### Just Click the Replay Button
 ![image](https://user-images.githubusercontent.com/39490214/132706302-d14de3af-8e17-4f9d-82d7-703c4e899a06.png)\
 ![image](https://user-images.githubusercontent.com/39490214/132706448-cfada10e-7d60-43b5-8513-193b7946c694.png)
